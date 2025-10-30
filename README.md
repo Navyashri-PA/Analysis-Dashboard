@@ -13,4 +13,4 @@ An interactive Power BI dashboard designed to analyze and visualize key HR metri
 Power BI | Excel | DAX
 
 ## Author
-Created by [Your Name]
+Created by [Navyashri P A]
